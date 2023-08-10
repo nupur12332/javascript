@@ -1,0 +1,17 @@
+
+body{
+    background: grey;
+    align-items: center; 
+}
+div{
+    align-items: center;
+}
+h1{
+    color: #fefefe;
+}
+input{
+border-color: black;
+border-radius: 8px;
+padding: 5px;
+box-shadow: #fefefe;
+}
